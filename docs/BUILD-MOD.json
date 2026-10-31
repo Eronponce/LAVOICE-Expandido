@@ -1,0 +1,18 @@
+{
+  "build": "h4-community-sandbox-2",
+  "name": "Expandido Mod 2",
+  "date": "2026-10-31",
+  "source": "LAVOICE H4 / Tsomyst",
+  "new_creations": 248,
+  "new_animals": 64,
+  "new_constructions": 48,
+  "wearables": 24,
+  "named_recipes": 1600,
+  "limit_per_player": 80,
+  "online_global_limit": 256,
+  "voice": "original sherpa-onnx / Parakeet CPU",
+  "rendering": "DirectX 12 / GPU",
+  "executable_sha256": "c4c963f19f591f4e33c4487d08b3282d018b2eca1aaccb7b36feb5f677eea046",
+  "native_validation_checks": 7690,
+  "network_loopback": "host + client with nicknames: passed"
+}

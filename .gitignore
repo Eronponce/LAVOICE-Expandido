@@ -1,0 +1,6 @@
+*.zip
+*.exe
+*.pck
+work/
+outputs/
+.env
