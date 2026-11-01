@@ -9,7 +9,7 @@ tags:
 
 # Build e publicação
 
-A entrega foi construída preservando o executável e os recursos importados da distribuição original, com patches de dados e bytecode. O repositório público é de documentação e pacotes compilados; um clone não contém automaticamente todos os recursos necessários para refazer o jogo.
+A entrega foi construída preservando o executável e os recursos importados da distribuição original, com patches de dados e bytecode. O repositório público mantém documentação e notas; um clone não contém automaticamente todos os recursos necessários para refazer o jogo nem distribui executáveis.
 
 ## Pré-requisitos locais
 
@@ -79,7 +79,7 @@ Estados de retomada locais: **work/MOD4-STATE.json**, **work/DEBUG-LAB-STATE.jso
 
 ## Releases
 
-Inclua o jogo completo Mod 4, laboratório separado, documentação e checksums. Diferencie o ZIP original de referência do pacote recomendado para jogar. Todos precisam usar a mesma versão Mod 4 na partida. Não distribua os arquivos experimentais de teste como se fossem o executável normal.
+A distribuição pública dos pacotes executáveis foi suspensa. Atualmente o repositório mantém documentação e notas; não há o jogo, o Mod 4 ou o laboratório para baixar. O LAVOICE H4 original pode ser obtido diretamente na [página de Tsomyst](https://tsomyst.itch.io/lavoice). Um patch ainda não está publicado.
 
 O protocolo só deve ser alterado com consciência dos formatos/semântica em [[17 - Multiplayer e autoridade]]. Não faça um bump para esconder erro de manifesto ou de recurso corrompido.
 
