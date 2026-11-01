@@ -1,21 +1,12 @@
-# LAVOICE H4 — Expandido Mod 4
+# LAVOICE H4 — Expandido
 
 Expansão comunitária não oficial do LAVOICE H4, jogo original de Tsomyst. Crie por voz ou texto, construa, combine efeitos e jogue com até seis pessoas.
 
-## Baixar
+## Distribuição
 
-[**Abrir a release Mod 4**](https://github.com/Eronponce/LAVOICE-Expandido/releases/tag/mod4)
+A distribuição pública dos pacotes executáveis foi suspensa em 1º de novembro de 2026. Os ZIPs completos do LAVOICE original, do Mod 2, do Mod 4 e do Laboratório foram removidos das releases. **Nenhum executável ou patch do mod está disponível neste repositório neste momento.**
 
-| Pacote | Para que serve |
-| --- | --- |
-| [LAVOICE-H4-Expandido-Mod4.zip](https://github.com/Eronponce/LAVOICE-Expandido/releases/download/mod4/LAVOICE-H4-Expandido-Mod4.zip) | **Jogar com o conteúdo atual:** Sandbox, competição e Tower Defense cooperativo. |
-| [LAVOICE-H4-Windows.zip](https://github.com/Eronponce/LAVOICE-Expandido/releases/download/mod4/LAVOICE-H4-Windows.zip) | H4 original, preservado para comparação. |
-| [LAVOICE-Laboratorio.zip](https://github.com/Eronponce/LAVOICE-Expandido/releases/download/mod4/LAVOICE-Laboratorio.zip) | Inspecionar mapas, modelos e colisões; registrar bugs. |
-| [LAVOICE-Obsidian.zip](https://github.com/Eronponce/LAVOICE-Expandido/releases/download/mod4/LAVOICE-Obsidian.zip) | Cofre de documentação do jogo e de implementação. |
-
-Extraia o ZIP inteiro e abra **LAVOICE.exe**. Todos precisam usar **o mesmo Mod 4** para jogar juntos. Windows 10/11 de 64 bits e GPU compatível com DirectX 12; reconhecimento offline original incluído.
-
-Os arquivos automáticos **Source code (zip/tar.gz)** do GitHub contêm este repositório de documentação. Para jogar, baixe o ZIP nomeado na tabela.
+Para obter o LAVOICE H4 original, use a [página oficial de Tsomyst](https://tsomyst.itch.io/lavoice). As releases mantêm apenas documentação e notas históricas; o ZIP LAVOICE-Obsidian contém documentação, não o jogo.
 
 ## O que a expansão oferece
 
@@ -66,16 +57,14 @@ Baixe LAVOICE-Obsidian.zip, extraia e abra a pasta LAVOICE como cofre no Obsidia
 
 ## Laboratório de depuração
 
-Extraia seu pacote separado e abra ABRIR-LABORATORIO.bat. **F1** alterna jogador/câmera livre, **WASD + Q/E** movem a câmera, **F8** troca a vista e **F9** registra imagem e estado. Há seleção de mapas, galeria de 28 modelos, formas de colisão por objeto, pausa e câmera lenta. AUDITAR-TUDO.bat repete a auditoria gráfica.
-
-O laboratório é offline, usa material de teste ilimitado e inicia sem voz. Use o Mod 4 normal para economia, Caos, competição e multiplayer. Os modelos da galeria ficam parados; o campo de pedido no mundo testa comportamento real.
+O ZIP executável do Laboratório foi retirado das releases. As descrições e os relatórios permanecem como documentação do projeto; não há laboratório executável disponível para download no repositório.
 
 ## Verificação e limites
 
 - Jogo Mod 4: **7.982 verificações locais aprovadas** no motor nativo.
 - Rede Mod 4: **245 verificações aprovadas**, com um anfitrião e cinco clientes na mesma máquina.
 - Laboratório: **667 verificações aprovadas**, 191 imagens da auditoria e quatro dos controles, com renderização real.
-- ZIPs têm manifesto e hashes. Consulte [SHA256SUMS.txt](SHA256SUMS.txt).
+- O ZIP de documentação Obsidian tem SHA-256 em [SHA256SUMS.txt](SHA256SUMS.txt); não há arquivo de jogo ou patch publicado neste momento.
 
 Voz e conexão pela internet não foram revalidadas nesta rodada. Esses testes não esgotam combinações livres, obstáculos complexos e latência real. Os móveis são cenográficos e a física usa aproximações arcade. Medidas durante captura não são um benchmark de FPS.
 
@@ -83,6 +72,6 @@ A conexão normal continua por IP/rede local/Radmin VPN, UDP 27840. Mod 2, Mod 3
 
 ## Sobre o repositório
 
-Este repositório reúne documentação e distribuição compilada. O projeto de trabalho reutiliza o motor e os recursos do jogo original; os recursos recuperados e dados privados de desenvolvimento não são publicados aqui. A documentação explica os pré-requisitos locais de implementação e build.
+Este repositório público mantém documentação e notas históricas. Os pacotes executáveis do jogo, do mod e do laboratório foram removidos das releases. O projeto de trabalho e os dados privados de desenvolvimento permanecem fora deste repositório.
 
-Jogo original: **Tsomyst**. Créditos e licenças do motor, reconhecimento de voz e bibliotecas acompanham os pacotes. Veja [CREDITOS.txt](CREDITOS.txt).
+Jogo original: **Tsomyst**. Consulte [CREDITOS.txt](CREDITOS.txt) para os créditos e avisos registrados no projeto.
