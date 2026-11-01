@@ -1,7 +1,9 @@
 LAVOICE EXPANDIDO — MOD 4
 
-Extraia o ZIP inteiro e abra LAVOICE.exe. Envie o ZIP completo aos amigos.
-Todos precisam desta mesma versão.
+DISTRIBUIÇÃO PÚBLICA SUSPENSA
+Os pacotes executáveis foram removidos das releases. No momento não há build jogável nem patch disponível para baixar aqui. O LAVOICE H4 original pode ser obtido na página oficial de Tsomyst: https://tsomyst.itch.io/lavoice
+
+As orientações abaixo descrevem o Mod 4 e servem como documentação para quem já tem uma cópia local.
 
 F3: escolha Tower Defense cooperativo e aplique.
 No online, configure o modo pela oficina da sala ou durante a partida como anfitrião.
@@ -27,11 +29,9 @@ Na prévia: esquerdo confirma, direito recusa, meio guarda na fila.
 Backspace: cancelar o pedido da fila.
 
 COM AMIGOS
-Até seis jogadores, todos com o pacote Mod4 inteiro.
+Até seis jogadores; todos precisam usar a mesma build Mod4.
 Conexão por IP/rede local/Radmin VPN, UDP 27840.
 Versões oficiais, Mods anteriores e laboratório não substituem o Mod4.
 
 LABORATÓRIO
-Use o pacote separado LAVOICE-Laboratorio.zip. Ele é offline, inicia sem
-voz e usa material de teste ilimitado. Veja RELATORIO-DE-DEPURACAO.md e
-ROTEIRO-DE-TESTES.md para inspeção e registro de problemas.
+O pacote executável do Laboratório foi removido das releases. Os relatórios e o roteiro de testes permanecem como documentação; não há download público do laboratório.
