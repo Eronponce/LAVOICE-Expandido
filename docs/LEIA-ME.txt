@@ -1,45 +1,37 @@
-﻿LAVOICE H4 — EXPANDIDO MOD 2
+LAVOICE EXPANDIDO — MOD 4
 
-Extraia a pasta inteira e abra LAVOICE.exe. Windows 10/11 64 bits, GPU compatível com DirectX 12.
+Extraia o ZIP inteiro e abra LAVOICE.exe. Envie o ZIP completo aos amigos.
+Todos precisam desta mesma versão.
 
-CONTROLES
-WASD: andar/dirigir. Mouse: olhar. Espaço: pular. Shift: correr. C: agachar.
-V rápido: alternar extração. Clique esquerdo segurado: extrair matéria do terreno ou construções.
-V segurado: pedido por voz. T: pedido digitado. Clique esquerdo: usar arma/magia.
-Botão direito: mirar. R: recarregar. 1/2/3: itens. Scroll: distância da câmera.
-F perto de criação sua: montar/sair. Nos aéreos, Espaço sobe e Shift desce.
-M: mostrar/ocultar minimapa. F2: trocar seu nick.
-No rascunho de construção: clique esquerdo confirma, direito cancela; scroll e R ajustam.
+F3: escolha Tower Defense cooperativo e aplique.
+No online, configure o modo pela oficina da sala ou durante a partida como anfitrião.
+Para testar sozinho, entre na oficina Sandbox e depois mude o modo em F3.
 
-PEDIDOS PARA COMEÇAR
-quero laser de fogo e gelo
-quero gato preto gigante montável pegando fogo
-quero dragão montável
-quero capivara que me segue
-quero raio encolhedor
-quero arma antigravidade
-quero super força
-quero magia relâmpago
-quero armadura de fogo e gelo
-quero botas antigravidade
-quero castelo
-quero fábrica
-quero escadaria em espiral
-quero ponte com física
-remover construção — sua construção na mira
-remover efeitos — cancela habilidades e vestíveis
-reciclar — desfaz o item da mão
+Mire em um círculo e peça uma torre. O painel mostra o preço e o saldo compartilhado.
+Esquerdo confirma, direito recusa, meio coloca na fila; Backspace cancela a fila.
+F4 inicia a onda durante a preparação (anfitrião).
 
-COMBINAÇÕES
-Use cor, tamanho, mais rápido/mais devagar, montável, com física e elementos no mesmo pedido.
-Fogo, gelo, laser, elétrico, venenoso, ácido, água, vento, terra, luz, sombra, gravidade, plasma.
-Os itens custam matéria. Vestíveis duram 180 s; vida do jogador limitada a 150.
-O catálogo completo está em CATALOGO-DE-COMANDOS.txt. As mudanças estão em PATCH-NOTES.txt.
+A conversa por voz vem silenciada. A voz para criar continua funcionando.
+Veja COMANDOS-NOVOS.txt, historico/PATCH-NOTES-MOD4.md e PERFORMANCE.md.
+
+CONTROLES GERAIS
+WASD: andar ou dirigir. Mouse: olhar.
+V segurado: pedir por voz. V rápido: alternar extração.
+T: digitar um pedido. Nos modos com extração, colete matéria para criar; no TD use o saldo compartilhado.
+1 a 6: escolher espaço do inventário.
+E: pegar arma próxima. G: largar a arma atual.
+F: montar ou sair de uma criação livre próxima.
+M: mostrar ou ocultar minimapa. F2: trocar nick.
+F3: perfil e regras; somente o anfitrião muda regras online.
+Na prévia: esquerdo confirma, direito recusa, meio guarda na fila.
+Backspace: cancelar o pedido da fila.
 
 COM AMIGOS
-Todos precisam do mesmo ZIP Mod 2. Use CRIAR SALA / ENTRAR EM SALA.
-Na mesma rede, informe o IP do anfitrião. À distância, use a mesma rede Radmin VPN.
-Porta padrão UDP 27840. Escolham cores e confirmem que estão prontos.
-Limites: 80 entidades por jogador e 256 no total online.
+Até seis jogadores, todos com o pacote Mod4 inteiro.
+Conexão por IP/rede local/Radmin VPN, UDP 27840.
+Versões oficiais, Mods anteriores e laboratório não substituem o Mod4.
 
-Voz original offline mantida. Jogo original: Tsomyst. Licenças e CREDITOS.txt preservados.
+LABORATÓRIO
+Use o pacote separado LAVOICE-Laboratorio.zip. Ele é offline, inicia sem
+voz e usa material de teste ilimitado. Veja RELATORIO-DE-DEPURACAO.md e
+ROTEIRO-DE-TESTES.md para inspeção e registro de problemas.

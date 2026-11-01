@@ -1,0 +1,14 @@
+LAVOICE — cofre de documentação técnica
+
+Abra a pasta LAVOICE como cofre no Obsidian e comece por 00 - Comece aqui.md.
+Para agentes e retomada rápida: CONTEXTO PARA AGENTES.md.
+
+As páginas usam Markdown, propriedades YAML, wikilinks e diagramas Mermaid.
+Não precisam de plugins comunitários. Não há programas executáveis, chave PCK
+ou fonte recuperada integral neste cofre.
+
+Os caminhos de implementação são relativos à raiz do projeto Godot local,
+não à pasta do cofre. O GitHub público distribui docs e binários.
+A documentação foi conferida estaticamente com os dados/código da edição
+Mod 4 + laboratório mod4-lab1. Nenhuma nova visualização no Obsidian
+foi solicitada ou executada.

@@ -1,3 +1,104 @@
+COMANDOS NOVOS — MOD 4
+
+COMO JOGAR TOWER DEFENSE
+1. Abra F3 e escolha Tower Defense cooperativo. No online, o anfitrião escolhe.
+2. Apliquem as regras. O mapa circular tem quatro rotas e pontos para torres.
+3. O grupo divide 300 materiais iniciais. Cada eliminação dá 3 e cada onda vencida dá 80.
+4. Não é possível extrair mais material do cenário nesse modo.
+5. Defendam o núcleo até vencer todas as ondas.
+
+DIGA, OLHANDO PARA UM CÍRCULO DE CONSTRUÇÃO
+torre metralhadora
+torre de fogo
+torre de gelo
+torre elétrica
+torre canhão
+torre sniper
+torre de veneno
+
+FORA DO TOWER DEFENSE
+Diga torre de defesa de fogo ou torre de defesa sniper para criar uma torre automática.
+
+PARA TODO NOVO PEDIDO DE CRIAÇÃO
+Esquerdo = aceitar
+Direito = recusar
+Meio = colocar na fila de uma posição
+Backspace = cancelar o pedido da fila
+R = alternar a dimensão ajustada; rodinha ajusta dimensões nas criações que permitem
+A prévia informa o que foi entendido, o preço e o saldo.
+
+INVENTÁRIO
+1 a 6 = escolher espaço
+Armas novas usam espaços livres e preservam a arma selecionada.
+Se estiver cheio, somente a arma selecionada será substituída.
+E = pegar arma próxima | G = largar arma
+
+ONDAS
+F4 ou diga iniciar onda = o anfitrião encerra a preparação e inicia a onda
+
+VOZ E REGRAS
+F3 = opções do modo, perfil e Silenciar conversa dos jogadores
+A conversa vem silenciada por padrão. A voz para criar continua ativa.
+
+COMANDOS DAS VERSÕES ANTERIORES — veja acima os controles atualizados de confirmação
+
+COMANDOS NOVOS — MOD 3
+
+F3 = oficina: modo, regras, nick e acessório
+E = pegar arma próxima | G = largar arma
+1 a 6 = escolher espaço do inventário
+F = montar / sair | M = minimapa | F2 = nick
+
+CONSTRUÇÕES
+crie quatro paredes formando uma caixa ao meu redor
+crie uma casa completa mobiliada de aço
+crie uma casa de madeira 12 por 6 por 10
+crie uma torre de pedra de 12 metros de altura com 3 andares
+crie uma ponte de pedra de 20 metros de comprimento
+crie uma fortaleza de aço
+crie uma prisão de pedra
+crie um labirinto de tijolo
+
+EDIÇÃO — mire na sua criação
+Duplique aquela torre
+Transforme essa construção em aço
+Amplie essa construção
+Diminua essa construção
+Modifique minha arma com fogo e gelo
+Faça essa criatura proteger minha base
+Destrua todas as paredes dessa região
+Remover construção
+
+DESTINOS E REGIÕES
+Marcar região
+Mova aquela construção
+Coloque fogo no chão daqui até aquela árvore
+Coloque gelo na região com raio 5
+Lava no chão
+Crie uma cratera no terreno
+Terremoto na região
+Crie uma montanha no terreno
+
+PODERES E ARMAS
+Teletransporte
+Invisibilidade
+Escudo de energia
+Pegar arma
+Largar arma
+
+FAVORITOS E DESFAZER
+[primeiro faça uma criação]
+Salvar favorito minha casa
+Usar favorito minha casa
+Desfazer
+
+Bases: defenda seu núcleo. Destrua o rival e elimine os jogadores restantes.
+Caos: dispute orbes e acumule energia para liberar os poderes mais fortes.
+Dicas no canto direito mostram mais 284 possibilidades.
+
+
+CATÁLOGO DAS VERSÕES ANTERIORES
+
 ﻿LAVOICE MOD 2 — CATÁLOGO DE COMANDOS
 Use T para digitar; segure V para pedir por voz. Extraia matéria antes.
 

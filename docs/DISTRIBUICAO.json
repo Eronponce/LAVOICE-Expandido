@@ -1,0 +1,36 @@
+{
+  "release": "mod4",
+  "date": "2026-11-01",
+  "game": "Mod 4",
+  "laboratory": "mod4-lab1",
+  "recommended_asset": "LAVOICE-H4-Expandido-Mod4.zip",
+  "documentation": {
+    "notes": 26,
+    "wikilinks": 102,
+    "json_examples": 6,
+    "validation": "static; visual inspection not requested",
+    "entry": "Obsidian/LAVOICE/CONTEXTO PARA AGENTES.md"
+  },
+  "assets": [
+    {
+      "name": "LAVOICE-H4-Windows.zip",
+      "sha256": "bf826853c6089b3a0bb05363ccde8ec4128966e2716b479eec690436b243f52b",
+      "bytes": 546328641
+    },
+    {
+      "name": "LAVOICE-H4-Expandido-Mod4.zip",
+      "sha256": "5c3c70c9f867fc9e76cf6955dc89d6c2d0c785e3aa1126d36df0fe3b5b4eed15",
+      "bytes": 549022635
+    },
+    {
+      "name": "LAVOICE-Laboratorio.zip",
+      "sha256": "178277a4d391f5d487818987d72193f17797e824ada4c0d7c805dc3bae4e7efc",
+      "bytes": 624311517
+    },
+    {
+      "name": "LAVOICE-Obsidian.zip",
+      "sha256": "88fc9552c1d1581ec7dd8c32474c052f4dd5827985b897ffae48766bc24dd956",
+      "bytes": 53699
+    }
+  ]
+}

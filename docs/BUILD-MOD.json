@@ -1,18 +1,146 @@
 {
-  "build": "h4-community-sandbox-2",
-  "name": "Expandido Mod 2",
-  "date": "2026-10-31",
-  "source": "LAVOICE H4 / Tsomyst",
-  "new_creations": 248,
-  "new_animals": 64,
-  "new_constructions": 48,
-  "wearables": 24,
-  "named_recipes": 1600,
-  "limit_per_player": 80,
-  "online_global_limit": 256,
-  "voice": "original sherpa-onnx / Parakeet CPU",
-  "rendering": "DirectX 12 / GPU",
-  "executable_sha256": "c4c963f19f591f4e33c4487d08b3282d018b2eca1aaccb7b36feb5f677eea046",
-  "native_validation_checks": 7690,
-  "network_loopback": "host + client with nicknames: passed"
+  "version": "Mod 4",
+  "date": "2026-11-01",
+  "engine": "4.7.2 custom",
+  "protocol": 25,
+  "gameplay": "h4-community-defense-4",
+  "max_players": 6,
+  "tip_count": 291,
+  "tower_types": 7,
+  "td_max_alive": 32,
+  "queue_slots_per_player": 1,
+  "default_voice_chat": false,
+  "exe_sha256": "a511bef512ebbebd88342720b1db07c305af485c004a1e2a032e65731bd416a4",
+  "verification": {
+    "regression": {
+      "checks": 7717,
+      "failures": []
+    },
+    "previous_features": {
+      "checks": 206,
+      "failures": []
+    },
+    "new_features": {
+      "checks": 59,
+      "failures": [],
+      "performance": {
+        "cache_builds": 5,
+        "frames": 120,
+        "navigation": {
+          "avoidance_tests": 8,
+          "step_tests": 5,
+          "steps_climbed": 1,
+          "target_updates": 10
+        },
+        "old_per_frame_updates": 120,
+        "target_updates": 10
+      }
+    },
+    "network": [
+      {
+        "role": "host",
+        "player": 1,
+        "players": 6,
+        "ok": true,
+        "checks": 50,
+        "failures": [],
+        "pool_before_reload": 468,
+        "mode_after_reload": "sandbox"
+      },
+      {
+        "role": "client",
+        "player": 4,
+        "players": 6,
+        "ok": true,
+        "checks": 39,
+        "failures": [],
+        "pool_before_reload": 468,
+        "mode_after_reload": "sandbox"
+      },
+      {
+        "role": "client",
+        "player": 2,
+        "players": 6,
+        "ok": true,
+        "checks": 39,
+        "failures": [],
+        "pool_before_reload": 468,
+        "mode_after_reload": "sandbox"
+      },
+      {
+        "role": "client",
+        "player": 5,
+        "players": 6,
+        "ok": true,
+        "checks": 39,
+        "failures": [],
+        "pool_before_reload": 468,
+        "mode_after_reload": "sandbox"
+      },
+      {
+        "role": "client",
+        "player": 6,
+        "players": 6,
+        "ok": true,
+        "checks": 39,
+        "failures": [],
+        "pool_before_reload": 468,
+        "mode_after_reload": "sandbox"
+      },
+      {
+        "role": "client",
+        "player": 3,
+        "players": 6,
+        "ok": true,
+        "checks": 39,
+        "failures": [],
+        "pool_before_reload": 468,
+        "mode_after_reload": "sandbox"
+      }
+    ],
+    "playwright": "unavailable: RTK Playwright parser failed"
+  },
+  "source_changes": [
+    "data/balance.json",
+    "data/creative_tips.json",
+    "data/defs/things.json",
+    "data/lexicon/en_us/things.json",
+    "data/lexicon/pt_br/things.json",
+    "data/models/td_cannon_tower.json",
+    "data/models/td_fire_tower.json",
+    "data/models/td_gun_tower.json",
+    "data/models/td_ice_tower.json",
+    "data/models/td_poison_tower.json",
+    "data/models/td_shock_tower.json",
+    "data/models/td_sniper_tower.json",
+    "data/world/tower_defense.json",
+    "scenes/arena/arena.gd",
+    "scenes/main.gd",
+    "scenes/player/extractor.gd",
+    "scenes/player/hands.gd",
+    "scenes/player/player.gd",
+    "scenes/player/shaper.gd",
+    "scenes/ui/hud.gd",
+    "scripts/autoload/forge.gd",
+    "scripts/gameplay/chaos_policy.gd",
+    "scripts/gameplay/command_interpreter.gd",
+    "scripts/gameplay/creation_orders.gd",
+    "scripts/gameplay/creation_review.gd",
+    "scripts/gameplay/creative_hud.gd",
+    "scripts/gameplay/creative_menu.gd",
+    "scripts/gameplay/gameplay_director.gd",
+    "scripts/gameplay/tower_defense.gd",
+    "scripts/input/local_player_input.gd",
+    "scripts/network/forge_replication.gd",
+    "scripts/network/session_compatibility.gd",
+    "scripts/network/voice_replication.gd",
+    "scripts/network/world_replication.gd",
+    "scripts/things/action/action_shoot.gd",
+    "scripts/things/combat.gd",
+    "scripts/things/model_builder.gd",
+    "scripts/things/move/move_chase_enemy.gd",
+    "scripts/things/thing.gd",
+    "scripts/ui_minimap.gd",
+    "scripts/world/block_volume.gd"
+  ]
 }

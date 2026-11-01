@@ -1,0 +1,21 @@
+{
+  "version": "mod4-lab1",
+  "base": "LAVOICE-H4-Expandido-Mod4",
+  "engine": "Godot 4.7.2 custom",
+  "executable_sha256": "b7ac04dc1074f245bbfc94a4f0e1ab032a3fb6ab861bcc17e1f7e6ef3b5d666a",
+  "base_executable_sha256": "a511bef512ebbebd88342720b1db07c305af485c004a1e2a032e65731bd416a4",
+  "audit": {
+    "checks": 638,
+    "captures": 191,
+    "failures": 0
+  },
+  "controls": {
+    "checks": 29,
+    "captures": 4,
+    "failures": 0
+  },
+  "renderer": "forward_plus",
+  "gpu": "NVIDIA GeForce RTX 5060 Ti",
+  "offline": true,
+  "voice_enabled": false
+}

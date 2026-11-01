@@ -1,0 +1,142 @@
+[
+  {
+    "path": ".obsidian/app.json",
+    "bytes": 99,
+    "sha256": "9047ea8be06ae956f249eaffdb635854e250f9701efdca73d93eeec72147fd13"
+  },
+  {
+    "path": "00 - Comece aqui.md",
+    "bytes": 3345,
+    "sha256": "5428833d79aadcddbf3fffa16a73a0110887411906b6aa9d2c4df5e83246347f"
+  },
+  {
+    "path": "01 - O jogo e seu escopo.md",
+    "bytes": 2919,
+    "sha256": "5229d542cad560ad39636b2545f91a18377e141f37d4afaf21eea1acb336b799"
+  },
+  {
+    "path": "02 - Do original ao Mod 4.md",
+    "bytes": 3336,
+    "sha256": "4fb7e05682245af5c4cef77c0f06ae11bbf7ae6668aab91c20abce64080a8be3"
+  },
+  {
+    "path": "03 - Instalar e jogar.md",
+    "bytes": 2809,
+    "sha256": "09cea0af101d4032571694b2e48e50b7eaaed8f95546d6666cb5e16e1d547fcf"
+  },
+  {
+    "path": "04 - Comandos e exemplos.md",
+    "bytes": 2975,
+    "sha256": "3467d6b376c2a8457526e4c73e7c71af4bd90b78c0770e109eff332958b0d804"
+  },
+  {
+    "path": "05 - Modos e regras.md",
+    "bytes": 3030,
+    "sha256": "7af1c34555dda723a326bc88cb15e3d8015d3cb0b00bb91fb88e90c1c12d6054"
+  },
+  {
+    "path": "06 - Arquitetura e arquivos.md",
+    "bytes": 3219,
+    "sha256": "2aa87bd9c86d1c32a3441d52581120e3175d241d11c5adbd9acd1f6d79b996a5"
+  },
+  {
+    "path": "07 - Pipeline de criacao.md",
+    "bytes": 3335,
+    "sha256": "8a2f98c03368c1b6085cfdb6f2d28c486e2e251b4f9378675dc293f5333a70b3"
+  },
+  {
+    "path": "08 - Receitas e dados.md",
+    "bytes": 3120,
+    "sha256": "0a1ec179ea3db7a0e730484869639c696560f9bd9852183c2cae3e2b855a31c7"
+  },
+  {
+    "path": "09 - Implementar uma arma.md",
+    "bytes": 3737,
+    "sha256": "9bf55d90ea65c9c872f43bf1a9f4601a26798b919c6b725b3dff9f1c7e5578e4"
+  },
+  {
+    "path": "10 - Implementar um animal.md",
+    "bytes": 3195,
+    "sha256": "e0f768c566de5380dc795aaab8e743090a54d2f1c95745c0fcf7e62ff438b488"
+  },
+  {
+    "path": "11 - Implementar construcoes.md",
+    "bytes": 3667,
+    "sha256": "f3d666c0388b4f13b74dcc85ddda3487de69dce8c2331e3be50fb18939e73901"
+  },
+  {
+    "path": "12 - Elementos e reacoes.md",
+    "bytes": 3285,
+    "sha256": "cbec8c027af2c2b2a901e5ebcacb0da843b75a2f06dc38b19425766bb365cde8"
+  },
+  {
+    "path": "13 - Vestiveis e habilidades.md",
+    "bytes": 3249,
+    "sha256": "3e7f87b1e9d2322e64b0c0c28074d04b6182e037bacfe0ed25c45b99af20b644"
+  },
+  {
+    "path": "14 - Fisica e montaria.md",
+    "bytes": 3155,
+    "sha256": "e645508b1975d14ab3399d9b92888b3eb243e8b937a5db110d11778006b5214c"
+  },
+  {
+    "path": "15 - IA e perseguicao.md",
+    "bytes": 3168,
+    "sha256": "ee808574277c752f77f9b466773cdcc546c92a6dc14c5f1e9481755f0f5e4b41"
+  },
+  {
+    "path": "16 - Mapas e terreno.md",
+    "bytes": 3224,
+    "sha256": "00503328e4844132c849b20c6860ccccbe25ddd485425e60446f1d4a74a7c9e5"
+  },
+  {
+    "path": "17 - Multiplayer e autoridade.md",
+    "bytes": 3894,
+    "sha256": "a2957c10e86506a4bfdc6ec4943c951e3835ab5376f9de5ab36d7e7198146a54"
+  },
+  {
+    "path": "18 - Interface e personalizacao.md",
+    "bytes": 3044,
+    "sha256": "be69a820c5baaedd183561d7507473ae970919bf2db3135e684858520719a789"
+  },
+  {
+    "path": "19 - Materiais e Caos.md",
+    "bytes": 3024,
+    "sha256": "baa1ca9c47d9a5e33678daea1d953c2d05173d17d9f7742eaabb5642d9d4bad8"
+  },
+  {
+    "path": "20 - Tower Defense cooperativo.md",
+    "bytes": 3293,
+    "sha256": "97939ac58b3d283ae8105f4a94148b14850a974580d6865232852b366dd0eb87"
+  },
+  {
+    "path": "21 - Performance e limites.md",
+    "bytes": 3264,
+    "sha256": "81f894c12209e7847b976d21ec9903fff2841ce43794982f32358a089b95f4a3"
+  },
+  {
+    "path": "22 - Depuracao e testes.md",
+    "bytes": 3776,
+    "sha256": "febc40c484e1864e4c660ca2598e99bd821fafbb4b456f39cf19a87b39ccf5ad"
+  },
+  {
+    "path": "23 - Build e publicacao.md",
+    "bytes": 5215,
+    "sha256": "0475b5077d3ec6631f4da50adbf849302d8a3b3aa87e1ee6e56c715d201fbbac"
+  },
+  {
+    "path": "24 - Contribuir e evoluir.md",
+    "bytes": 3313,
+    "sha256": "77225da8f55a9d11471d10ce406f62752386467b6567907ad107d5e7cff606aa"
+  },
+  {
+    "path": "CONTEXTO PARA AGENTES.md",
+    "bytes": 8922,
+    "sha256": "54ac09342ebac7a536c08b96b3627688c6e1e686841ad3a0ccf8768669ab4f0b"
+  },
+  {
+    "path": "LEIA-ME.txt",
+    "bytes": 728,
+    "sha256": "437c6a1ffb31631ab286e6b3794febf388a6fe6b9f3e4fce8e2e2a68b1bfa31b"
+  }
+]
