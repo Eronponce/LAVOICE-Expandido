@@ -9,7 +9,7 @@ tags:
 
 # Instalar e jogar
 
-Na [release atual](https://github.com/Eronponce/LAVOICE-Expandido/releases/tag/mod4), o arquivo **LAVOICE-H4-Expandido-Mod4.zip** é o pacote de jogo. O ZIP original H4 serve como referência da base; o laboratório e a documentação são downloads separados.
+A distribuição pública dos pacotes executáveis foi suspensa em 1º de novembro de 2026. Não há build Mod 4 ou patch disponível para download nas releases. O LAVOICE original está na [página oficial de Tsomyst](https://tsomyst.itch.io/lavoice). As instruções seguintes servem para uma cópia local já disponível.
 
 ## Instalação
 
